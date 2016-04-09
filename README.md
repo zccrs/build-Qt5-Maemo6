@@ -165,3 +165,8 @@ $  ../qtbase/configure  -make libs -device linux-maemo-n9-g++ -device-option CRO
 
     Prior to reconfiguration, make sure you remove any leftovers from
     the previous build.
+    
+ ````
+ $ make
+ $ make install
+ ````
