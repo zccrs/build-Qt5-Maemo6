@@ -54,8 +54,8 @@ $ mkdir build & cd build
 $ export PATH=/scratchbox/compilers/cs2009q3-eglibc2.10-armv7-hard/bin:PATH
 $  ../qtbase/configure  -make libs -device linux-maemo-n9-g++ -device-option CROSS_COMPILE=arm-none-linux-gnueabi- -sysroot /scratchbox/users/$USER/targets/HARMATTAN_ARMEL -opensource -confirm-license -release -prefix /opt/qt5.5.1 -no-gtkstyle -no-pch -no-eglfs -qtnamespace QT5 -nomake tests -nomake examples
 ````
-  Build options:
-  Configuration .......... accessibility accessibility-atspi-bridge alsa audio-backend c++11 clock-gettime clock-monotonic compile_examples concurrent cross_compile dbus egl egl_x11 enable_new_dtags evdev eventfd freetype full-config getaddrinfo getifaddrs glib gstreamer-0.10 harfbuzz iconv icu inotify ipv6ifname large-config largefile linuxfb medium-config minimal-config mremap neon nis opengl opengles2 openssl pcre png posix_fallocate pulseaudio qpa qpa reduce_exports release rpath shared small-config system-jpeg system-zlib xcb xcb-glx xcb-plugin xcb-render xcb-sm xcb-xlib xkbcommon-qt xlib xrender 
+    Build options:
+    Configuration .......... accessibility accessibility-atspi-bridge alsa audio-backend c++11 clock-gettime clock-monotonic compile_examples concurrent cross_compile dbus egl egl_x11 enable_new_dtags evdev eventfd freetype full-config getaddrinfo getifaddrs glib gstreamer-0.10 harfbuzz iconv icu inotify ipv6ifname large-config largefile linuxfb medium-config minimal-config mremap neon nis opengl opengles2 openssl pcre png posix_fallocate pulseaudio qpa qpa reduce_exports release rpath shared small-config system-jpeg system-zlib xcb xcb-glx xcb-plugin xcb-render xcb-sm xcb-xlib xkbcommon-qt xlib xrender 
   Build parts ............  libs
   Mode ................... release
   Using sanitizer(s)...... none
