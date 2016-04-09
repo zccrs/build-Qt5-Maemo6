@@ -38,6 +38,7 @@ $ scratchbox
  ````
  ![enter image description here](https://github.com/zccrs/build-Qt5-Maemo6/blob/master/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE20160409161431.png?raw=true)
  ![enter image description here](https://github.com/zccrs/build-Qt5-Maemo6/blob/master/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE20160409161442.png?raw=true)
+ 
  ![enter image description here](https://github.com/zccrs/build-Qt5-Maemo6/blob/master/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE20160409161500.png?raw=true)
  ````
  [sbox-HARMATTAN_ARMEL: ~]
