@@ -43,6 +43,10 @@ $ scratchbox
  ````
  [sbox-HARMATTAN_ARMEL: ~] apt-get update
  [sbox-HARMATTAN_ARMEL: ~] apt-get install libxcb-image0-dev libxcb-keysyms1-dev libxcb-property1-dev libxcb-randr0-dev libxcb-render0-dev libxcb-render-util0-dev libxcb-shape0-dev libxcb-shm0-dev libxcb-sync0-dev libxcb-xfixes0-dev libx11-xcb-dev libxcb-atom1-dev libxcb-aux0-dev libxcb-damage0-dev libxcb-event1-dev libxcb-glx0-dev libxcb-icccm1-dev 
+ [sbox-HARMATTAN_ARMEL: ~] vim /usr/include/GLES2/gl2.h
+ ````
+ add "#include <KHR/khrplatform.h>" to line 6
+ ````
  [sbox-HARMATTAN_ARMEL: ~] exit
  ````
  ````
